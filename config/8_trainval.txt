@@ -1,0 +1,8 @@
+F:\deeplearning_data\pets\pet_voc\pet_voc\JPEGImages\Persian_116.jpg 152,118,239,207,0
+F:\deeplearning_data\pets\pet_voc\pet_voc\JPEGImages\Bengal_10.jpg 315,60,446,219,0
+F:\deeplearning_data\pets\pet_voc\pet_voc\JPEGImages\British_Shorthair_104.jpg 70,21,331,282,0
+F:\deeplearning_data\pets\pet_voc\pet_voc\JPEGImages\havanese_175.jpg 10,12,393,317,1
+F:\deeplearning_data\pets\pet_voc\pet_voc\JPEGImages\english_setter_172.jpg 172,58,276,166,1
+F:\deeplearning_data\pets\pet_voc\pet_voc\JPEGImages\miniature_pinscher_126.jpg 39,82,169,186,1
+F:\deeplearning_data\pets\pet_voc\pet_voc\JPEGImages\Bengal_159.jpg 142,1,190,48,0
+F:\deeplearning_data\pets\pet_voc\pet_voc\JPEGImages\keeshond_107.jpg 233,18,377,210,1
