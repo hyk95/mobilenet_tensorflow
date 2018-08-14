@@ -110,4 +110,4 @@ if __name__ == '__main__':
     anchors_path = "./config/yolo2_anchors.txt"
     weight_path = "F:\\deep_learning_models\\tf\\mobilenet_v1_1.0_224\\mobilenet_v1_1.0_224.ckpt"
     train_dataset = VOC_Data(annotation_path, classes_path, anchors_path, input_shape=(416, 416))
-    train(train_dataset, val_dataset, epochs=50, batch_size=4, weight_path="model/416_tree_mobilev1.ckpt")
+    train(train_dataset, epochs=50, batch_size=4, weight_path="model/416_tree_mobilev1.ckpt")
